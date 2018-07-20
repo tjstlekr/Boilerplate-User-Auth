@@ -1,0 +1,17 @@
+{
+  "name": "user-authentication",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "dotenv": "^4.0.0",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "js-hibernate": "^1.0.14",
+    "morgan": "~1.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
